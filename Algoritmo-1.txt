@@ -1,1 +1,6 @@
-inico de algoritmo
+INICIO 
+      recopilar informacion del ejercicion
+      realizar el procedimientos para calcular el area de un triangulo
+      repersenatar el resultado graficamente del ejercicio
+FINAL
+ 

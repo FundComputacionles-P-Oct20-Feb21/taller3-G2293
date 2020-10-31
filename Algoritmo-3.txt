@@ -1,0 +1,8 @@
+INICIO
+      ingresar informacion sobre las tablas de multiplicar
+      procesar la informacion sobre las tablas de multiplicar
+      si se ingresa el cualquier numero,
+        mostrar la tabla de ese numero;
+      o si se ingresa el numero 2y6,
+        mostrar la tabla del dos y seis.
+FINAL   

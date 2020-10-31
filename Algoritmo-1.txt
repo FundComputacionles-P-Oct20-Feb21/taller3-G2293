@@ -1,6 +1,6 @@
 INICIO 
-      recopilar informacion del ejercicion
-      realizar el procedimientos para calcular el area de un triangulo
-      repersenatar el resultado graficamente del ejercicio
+      ingresar la informacion 
+      calcular el area del triangulo
+      presentar el area del tiangulo
 FINAL
  

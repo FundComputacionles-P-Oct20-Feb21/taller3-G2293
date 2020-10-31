@@ -1,0 +1,3 @@
+INICIO
+      recopilar la informacion de los gastos de los hijos
+      

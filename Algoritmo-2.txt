@@ -1,3 +1,5 @@
 INICIO
       recopilar la informacion de los gastos de los hijos
-      
+      realizamos los calculos para obtener el resultado total que se gasto en los tres hijos
+      en una tabla ordenaremos y colocaremos los resultados del calculo anterios
+FINAL
